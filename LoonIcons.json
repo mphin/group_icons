@@ -19,7 +19,11 @@
         },
         {
             "name": "apple.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_apple"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_apple.png"
+        },
+        {
+            "name": "tv.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_tv.png"
         }
     ],
     "description": "Emoji策略组图标集，图像来源于Emojiall"
