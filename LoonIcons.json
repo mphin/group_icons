@@ -1,5 +1,5 @@
 {
-    "name": "LoonIcons",
+    "name": "GroupIcons",
     "icons": [
         {
             "name": "scale.png",
@@ -24,6 +24,66 @@
         {
             "name": "tv.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_tv.png"
+        },
+        {
+            "name": "calling.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_calling.png"
+        },
+        {
+            "name": "robot.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_robot.png"
+        },
+        {
+            "name": "satellite.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_satellite.png"
+        },
+        {
+            "name": "movie_camera.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_movie_camera.png"
+        },
+        {
+            "name": "airplane.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_airplane.png"
+        },
+        {
+            "name": "fish.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_fish.png"
+        },
+        {
+            "name": "joystick.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_joystick.png"
+        },
+        {
+            "name": "recycle.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_recycle.png"
+        },
+        {
+            "name": "construction.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_construction.png"
+        },
+        {
+            "name": "singapore.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/twitter/emojiall_singapore.png"
+        },
+        {
+            "name": "hong_kong.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/twitter/emojiall_hong_kong.png"
+        },
+        {
+            "name": "cn.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/twitter/emojiall_cn.png"
+        },
+        {
+            "name": "us.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/twitter/emojiall_us.png"
+        },
+        {
+            "name": "jp.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/twitter/emojiall_jp.png"
+        },
+        {
+            "name": "kr.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/twitter/emojiall_kr.png"
         }
     ],
     "description": "Emoji策略组图标集，图像来源于Emojiall"
