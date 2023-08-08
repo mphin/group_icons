@@ -3,67 +3,71 @@
     "icons": [
         {
             "name": "scale.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_balance_scale.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_balance_scale.png"
         },
         {
             "name": "dart.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_dart.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_dart.png"
         },
         {
             "name": "loudspeaker.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_loudspeaker.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_loudspeaker.png"
         },
         {
             "name": "m.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_m.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_m.png"
         },
         {
             "name": "apple.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_apple.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_apple.png"
         },
         {
             "name": "tv.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_tv.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_tv.png"
         },
         {
             "name": "calling.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_calling.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_calling.png"
         },
         {
             "name": "robot.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_robot.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_robot.png"
         },
         {
             "name": "satellite.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_satellite.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_satellite.png"
         },
         {
             "name": "movie_camera.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_movie_camera.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_movie_camera.png"
         },
         {
             "name": "airplane.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_airplane.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_airplane.png"
         },
         {
             "name": "fish.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_fish.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_fish.png"
         },
         {
             "name": "joystick.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_joystick.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_joystick.png"
         },
         {
             "name": "recycle.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_recycle.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_recycle.png"
         },
         {
             "name": "construction.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_construction.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_construction.png"
         },
         {
             "name": "pushpin.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_pushpin.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_pushpin.png"
+        },
+        {
+            "name": "crystal_ball.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_crystal_ball.png"
         },
         {
             "name": "christmas_tree.png",
