@@ -1,6 +1,30 @@
 {
-    "name": "GroupIcons",
+    "name": "GroupIconsEmoji",
     "icons": [
+        {
+            "name": "singapore.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_singapore.png"
+        },
+        {
+            "name": "hong_kong.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_hong_kong.png"
+        },
+        {
+            "name": "cn.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_cn.png"
+        },
+        {
+            "name": "us.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_us.png"
+        },
+        {
+            "name": "jp.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_jp.png"
+        },
+        {
+            "name": "kr.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_kr.png"
+        },
         {
             "name": "scale.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_balance_scale.png"
@@ -76,31 +100,7 @@
         {
             "name": "christmas_tree.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_christmas_tree.png"
-        },
-        {
-            "name": "singapore.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_singapore.png"
-        },
-        {
-            "name": "hong_kong.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_hong_kong.png"
-        },
-        {
-            "name": "cn.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_cn.png"
-        },
-        {
-            "name": "us.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_us.png"
-        },
-        {
-            "name": "jp.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_jp.png"
-        },
-        {
-            "name": "kr.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_kr.png"
         }
     ],
-    "description": "策略组图标集，收集好看的Emoji表情，图像来源于Emojiall"
+    "description": "策略组Emoji图标集，收集好看的Emoji表情，图像来源于Emojiall"
 }

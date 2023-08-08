@@ -1,0 +1,51 @@
+name: Add Icons Workflow
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'icon/emoji/**'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up time zone
+        run: sudo timedatectl set-timezone Asia/Shanghai
+      
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Get last commit files
+        id: last_commit
+        run: |
+          echo "sha=$(git rev-parse HEAD)" >> $GITHUB_ENV
+
+      - name: Get changed files
+        id: file_list
+        run: |
+          COMMIT=${{ env.sha }}
+          URL="https://api.github.com/repos/${{ github.repository }}/compare/${COMMIT}^...${COMMIT}"
+          FILES=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" $URL | jq -r 'select(.filename | test("^icon/emoji/.*\\.png$")) | .filename')
+          
+          # 生成JSON格式的文件名列表
+          FILENAMES=""
+          for filename in $FILES; do
+            name=$(basename "$filename")
+            url="https://raw.githubusercontent.com/mphin/GroupIcons/main/$filename"
+            entry=$(printf '\n        {\n            "name": "%s",\n            "url": "%s"\n        }' "$name" "$url")
+            FILENAMES="${FILENAMES}${entry},"
+          done
+
+          # 删除最后一个逗号
+          FILENAMES="${FILENAMES%,}"
+
+          # 在GroupIcons_Emoji.json文件中插入文件名列表
+          sed -i '/}/ s/}/'"${FILENAMES}"'\n}/' GroupIcons_Emoji.json
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Update GroupIcons_Emoji.json [skip ci]"
+          git push
