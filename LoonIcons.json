@@ -2,12 +2,16 @@
     "name": "LoonIcons",
     "icons": [
         {
-            "name": "emojiall_balance_scale.png",
+            "name": "scale.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_balance_scale.png"
         },
         {
-            "name": "emojiall_dart.png",
+            "name": "dart.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_dart.png"
+        },
+        {
+            "name": "loudspeaker.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_loudspeaker.png"
         }
     ],
     "description": "Emoji策略组图标集，图像来源于Emojiall"
