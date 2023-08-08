@@ -66,6 +66,10 @@
             "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/ios/emojiall_pushpin.png"
         },
         {
+            "name": "christmas_tree.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_christmas_tree.png"
+        },
+        {
             "name": "singapore.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_singapore.png"
         },
@@ -90,5 +94,5 @@
             "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_kr.png"
         }
     ],
-    "description": "Emoji策略组图标集，图像来源于Emojiall"
+    "description": "策略组图标集，收集好看的Emoji表情，图像来源于Emojiall"
 }
