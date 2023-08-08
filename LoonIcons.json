@@ -3,11 +3,11 @@
     "icons": [
         {
             "name": "emojiall_balance_scale.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_balance_scale.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_balance_scale.png"
         },
         {
             "name": "emojiall_dart.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_dart.png"
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_dart.png"
         }
     ],
     "description": "Emoji策略组图标集，图像来源于Emojiall"
