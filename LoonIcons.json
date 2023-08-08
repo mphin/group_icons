@@ -2,25 +2,16 @@
     "name": "LoonIcons",
     "icons": [
         {
-<<<<<<< HEAD
             "name": "scale.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_balance_scale.png"
-        },
-        {
-            "name": "dart.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_dart.png"
-        },
-        {
-            "name": "loudspeaker.png",
-            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon\emoji\ios/emojiall_loudspeaker.png"
-=======
-            "name": "emojiall_balance_scale.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_balance_scale.png"
         },
         {
-            "name": "emojiall_dart.png",
+            "name": "dart.png",
             "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_dart.png"
->>>>>>> 3f442854c1dc61fea66bf86c157e09f2c17ec7cc
+        },
+        {
+            "name": "loudspeaker.png",
+            "url": "https://raw.githubusercontent.com/mphin/GroupIconCollection/main/icon/emoji/ios/emojiall_loudspeaker.png"
         }
     ],
     "description": "Emoji策略组图标集，图像来源于Emojiall"
