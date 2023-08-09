@@ -3,7 +3,19 @@
   "icons": [
     {
       "name": "aerial_tramway.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_aerial_tramway.png"
+    },
+    {
+      "name": "aerial_tramway.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/htc/emojiall_aerial_tramway.png"
+    },
+    {
+      "name": "aerial_tramway.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_aerial_tramway.png"
+    },
+    {
+      "name": "aerial_tramway.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_aerial_tramway.png"
     },
     {
       "name": "airplane.png",
@@ -12,6 +24,10 @@
     {
       "name": "apple.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_apple.png"
+    },
+    {
+      "name": "apple.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/facebook/emojiall_apple.png"
     },
     {
       "name": "apple.png",
