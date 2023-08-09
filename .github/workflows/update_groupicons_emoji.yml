@@ -18,7 +18,7 @@ jobs:
 
       - name: Update JSON file
         run: |
-          input=$(find icon/emoji -name "*.png" -exec bash -c 'name=$(basename "$1"); url="https://raw.githubusercontent.com/mphin/GroupIcons/main/$1"; echo "{\"name\": \"${name/emojiall_/}\", \"url\": \"$url\"}"' _ {} \; | jq -s '. | {name: "GroupIcons Emoji", icons: ., description: "策略组图标集，多平台Emoji表情，图像来源于Emojiall"}')
+          input=$(find icon/emoji -name "*.png" -exec bash -c 'name=$(basename "$1"); url="https://raw.githubusercontent.com/mphin/GroupIcons/main/$1"; echo "{\"name\": \"${name/emojiall_/}\", \"url\": \"$url\"}"' _ {} \; | jq -s '. | {name: "GroupIcons Emoji", icons: ., description: "策略组图标集，多平台Emoji表情供你选择，图像来源于Emojiall"}')
           echo "$input" > GroupIcons_emoji.json
 
       - name: Commit and push changes
