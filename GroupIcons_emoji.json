@@ -2,6 +2,14 @@
   "name": "GroupIcons Emoji",
   "icons": [
     {
+      "name": "point_up_2.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_point_up_2.png"
+    },
+    {
+      "name": "white_check_mark.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_white_check_mark.png"
+    },
+    {
       "name": "apple.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_apple.png"
     },
@@ -12,6 +20,14 @@
     {
       "name": "window.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_window.png"
+    },
+    {
+      "name": "ballot_box_with_check.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_ballot_box_with_check.png"
+    },
+    {
+      "name": "iphone.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_iphone.png"
     },
     {
       "name": "fish.png",
@@ -78,6 +94,10 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_balance_scale.png"
     },
     {
+      "name": "point_up_2.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_point_up_2.png"
+    },
+    {
       "name": "crystal_ball.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_crystal_ball.png"
     },
@@ -92,6 +112,10 @@
     {
       "name": "window.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_window.png"
+    },
+    {
+      "name": "heavy_check_mark.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_heavy_check_mark.png"
     },
     {
       "name": "flight_departure.png",
@@ -122,8 +146,16 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_film_strip.png"
     },
     {
+      "name": "point_up_2.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/emojidex/emojiall_point_up_2.png"
+    },
+    {
       "name": "cn.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_cn.png"
+    },
+    {
+      "name": "white_check_mark.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_white_check_mark.png"
     },
     {
       "name": "christmas_tree.png",
@@ -152,6 +184,18 @@
     {
       "name": "kr.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_kr.png"
+    },
+    {
+      "name": "white_check_mark.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_white_check_mark.png"
+    },
+    {
+      "name": "white_check_mark.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/facebook/emojiall_white_check_mark.png"
+    },
+    {
+      "name": "ballot_box_with_check.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/facebook/emojiall_ballot_box_with_check.png"
     }
   ],
   "description": "策略组图标集，多平台Emoji表情，图像来源于Emojiall"
