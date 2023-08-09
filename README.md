@@ -1,9 +1,9 @@
 # GroupIconCollection
 * 策略组图标的收集和管理
 * Loon一键订阅: 
-`https://www.nsloon.com/openloon/import?iconset=encodehttps://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json)`
+        https://www.nsloon.com/openloon/import?iconset=encodehttps://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json)
 * 其他订阅: 
-        https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
+`https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json`
 
 
 
