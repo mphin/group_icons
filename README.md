@@ -1,14 +1,8 @@
 # GroupIconCollection
 * 策略组图标的收集和管理
-* Loon一键订阅:         
-        https://www.nsloon.com/openloon/import?iconset=encodehttps://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json)
-* stash一键订阅:
-        stash://install-icon-set?url=(raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json)
-        clash://install-icon-set?url=${[url-encoded](raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json)}
-
-
-
-                  
+* Loon点击订阅:         
+        https://www.nsloon.com/openloon/import?iconset=encodehttps://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
+* stash点击订阅:                 
 https://link.stash.ws/install-icon-set/raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
 
         
