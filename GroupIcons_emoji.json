@@ -486,8 +486,32 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_robot.png"
     },
     {
+      "name": "robot.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/google/emojiall_robot.png"
+    },
+    {
+      "name": "robot.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_robot.png"
+    },
+    {
+      "name": "robot.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_robot.png"
+    },
+    {
       "name": "satellite.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_satellite.png"
+    },
+    {
+      "name": "satellite.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/blobmoji/emojiall_satellite.png"
+    },
+    {
+      "name": "satellite.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_satellite.png"
+    },
+    {
+      "name": "satellite.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_satellite.png"
     },
     {
       "name": "shield.png",
