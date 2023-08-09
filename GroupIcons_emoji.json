@@ -106,6 +106,10 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_credit_card.png"
     },
     {
+      "name": "video_game.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_video_game.png"
+    },
+    {
       "name": "aerial_tramway.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_aerial_tramway.png"
     },
@@ -150,5 +154,5 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_kr.png"
     }
   ],
-  "description": "策略组图标集，Emoji表情，图像来源于Emojiall"
+  "description": "策略组图标集，多平台Emoji表情，图像来源于Emojiall"
 }
