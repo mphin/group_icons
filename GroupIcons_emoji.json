@@ -406,8 +406,32 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_m.png"
     },
     {
+      "name": "m.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_m.png"
+    },
+    {
+      "name": "m.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_m.png"
+    },
+    {
+      "name": "m.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_m.png"
+    },
+    {
       "name": "movie_camera.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_movie_camera.png"
+    },
+    {
+      "name": "movie_camera.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_movie_camera.png"
+    },
+    {
+      "name": "movie_camera.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_movie_camera.png"
+    },
+    {
+      "name": "movie_camera.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_movie_camera.png"
     },
     {
       "name": "point_up_2.png",
