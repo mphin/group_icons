@@ -514,12 +514,32 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_satellite.png"
     },
     {
-      "name": "shield.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_shield.png"
+      "name": "shopping_cart.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_shopping_cart.png"
     },
     {
       "name": "shopping_cart.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_shopping_cart.png"
+    },
+    {
+      "name": "shopping_cart.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_shopping_cart.png"
+    },
+    {
+      "name": "shopping_cart.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_shopping_cart.png"
+    },
+    {
+      "name": "singapore.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_singapore.png"
+    },
+    {
+      "name": "singapore.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/emojidex/emojiall_singapore.png"
+    },
+    {
+      "name": "singapore.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_singapore.png"
     },
     {
       "name": "singapore.png",
@@ -527,7 +547,19 @@
     },
     {
       "name": "toolbox.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_toolbox.png"
+    },
+    {
+      "name": "toolbox.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_toolbox.png"
+    },
+    {
+      "name": "toolbox.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_toolbox.png"
+    },
+    {
+      "name": "toolbox.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/whatsapp/emojiall_toolbox.png"
     },
     {
       "name": "tv.png",
