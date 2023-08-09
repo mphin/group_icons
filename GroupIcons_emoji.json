@@ -566,12 +566,48 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_tv.png"
     },
     {
+      "name": "tv.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/emojitwo/emojiall_tv.png"
+    },
+    {
+      "name": "tv.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_tv.png"
+    },
+    {
+      "name": "tv.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_tv.png"
+    },
+    {
+      "name": "us.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_us.png"
+    },
+    {
+      "name": "us.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/htc/emojiall_us.png"
+    },
+    {
+      "name": "us.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_us.png"
+    },
+    {
       "name": "us.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_us.png"
     },
     {
       "name": "video_game.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/emojitwo/emojiall_video_game.png"
+    },
+    {
+      "name": "video_game.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/facebook/emojiall_video_game.png"
+    },
+    {
+      "name": "video_game.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_video_game.png"
+    },
+    {
+      "name": "video_game.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_video_game.png"
     },
     {
       "name": "white_check_mark.png",
