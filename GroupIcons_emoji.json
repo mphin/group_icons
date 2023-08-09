@@ -295,7 +295,7 @@
     },
     {
       "name": "hong_kong.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/emojiall_hong_kong.png"
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/hong_kong.png"
     },
     {
       "name": "hong_kong.png",
@@ -308,6 +308,18 @@
     {
       "name": "iphone.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_iphone.png"
+    },
+    {
+      "name": "iphone.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/google/emojiall_iphone.png"
+    },
+    {
+      "name": "iphone.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_iphone.png"
+    },
+    {
+      "name": "iphone.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_iphone.png"
     },
     {
       "name": "joystick.png",
