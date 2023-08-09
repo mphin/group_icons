@@ -82,6 +82,10 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_tv.png"
     },
     {
+      "name": "zap.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_zap.png"
+    },
+    {
       "name": "pushpin.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_pushpin.png"
     },
@@ -100,6 +104,10 @@
     {
       "name": "crystal_ball.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_crystal_ball.png"
+    },
+    {
+      "name": "cinema.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_cinema.png"
     },
     {
       "name": "chart_with_upwards_trend.png",
@@ -150,6 +158,10 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/emojidex/emojiall_point_up_2.png"
     },
     {
+      "name": "cinema.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/htc/emojiall_cinema.png"
+    },
+    {
       "name": "cn.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_cn.png"
     },
@@ -190,13 +202,21 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_white_check_mark.png"
     },
     {
+      "name": "zap.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_zap.png"
+    },
+    {
       "name": "white_check_mark.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/facebook/emojiall_white_check_mark.png"
+    },
+    {
+      "name": "cinema.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/facebook/emojiall_cinema.png"
     },
     {
       "name": "ballot_box_with_check.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/facebook/emojiall_ballot_box_with_check.png"
     }
   ],
-  "description": "策略组图标集，多平台Emoji表情，图像来源于Emojiall"
+  "description": "策略组图标集，多平台Emoji表情供你选择，图像来源于Emojiall"
 }
