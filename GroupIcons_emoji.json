@@ -195,7 +195,19 @@
     },
     {
       "name": "crystal_ball.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_crystal_ball.png"
+    },
+    {
+      "name": "crystal_ball.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/htc/emojiall_crystal_ball.png"
+    },
+    {
+      "name": "crystal_ball.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_crystal_ball.png"
+    },
+    {
+      "name": "crystal_ball.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_crystal_ball.png"
     },
     {
       "name": "dart.png",
