@@ -446,12 +446,40 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_point_up_2.png"
     },
     {
+      "name": "point_up_2.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_point_up_2.png"
+    },
+    {
       "name": "pushpin.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_pushpin.png"
     },
     {
+      "name": "pushpin.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_pushpin.png"
+    },
+    {
+      "name": "pushpin.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_pushpin.png"
+    },
+    {
+      "name": "pushpin.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/softbank/emojiall_pushpin.png"
+    },
+    {
       "name": "recycle.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_recycle.png"
+    },
+    {
+      "name": "recycle.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_recycle.png"
+    },
+    {
+      "name": "recycle.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_recycle.png"
+    },
+    {
+      "name": "recycle.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_recycle.png"
     },
     {
       "name": "robot.png",
