@@ -631,11 +631,27 @@
     },
     {
       "name": "window.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/google/emojiall_window.png"
+    },
+    {
+      "name": "window.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_window.png"
+    },
+    {
+      "name": "window.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_window.png"
     },
     {
       "name": "zap.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_zap.png"
+    },
+    {
+      "name": "zap.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/htc/emojiall_zap.png"
+    },
+    {
+      "name": "zap.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_zap.png"
     },
     {
       "name": "zap.png",
