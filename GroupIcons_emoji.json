@@ -227,7 +227,19 @@
     },
     {
       "name": "film_strip.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_film_strip.png"
+    },
+    {
+      "name": "film_strip.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/google/emojiall_film_strip.png"
+    },
+    {
+      "name": "film_strip.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_film_strip.png"
+    },
+    {
+      "name": "film_strip.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_film_strip.png"
     },
     {
       "name": "fish.png",
@@ -247,7 +259,15 @@
     },
     {
       "name": "flight_departure.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/emojidex/emojiall_flight_departure.png"
+    },
+    {
+      "name": "flight_departure.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_flight_departure.png"
+    },
+    {
+      "name": "flight_departure.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_flight_departure.png"
     },
     {
       "name": "flight_departure.png",
