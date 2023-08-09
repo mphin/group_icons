@@ -1,0 +1,30 @@
+name: Update GroupIcons_Emoji.json
+
+on:
+  push:
+    paths:
+      - 'icon/emoji/**/*.png'
+
+jobs:
+  update_json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Update JSON file
+        run: |
+          input=$(find icon/emoji -name "*.png" -exec bash -c 'name=$(basename "$1"); url="https://raw.githubusercontent.com/mphin/GroupIcons/main/$1"; echo "{\"name\": \"${name/emojiall_/}\", \"url\": \"$url\"}"' _ {} \; | jq -s '. | {name: "GroupIconsEmoji", icons: ., description: "策略组Emoji图标集，收集好看的Emoji表情，图像来源于Emojiall"}')
+          echo "$input" > GroupIcons_Emoji.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "actions@github.com"
+          git add GroupIcons_Emoji.json
+          git commit -m "Update GroupIcons_Emoji.json"
+          git push
