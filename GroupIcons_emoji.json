@@ -66,10 +66,6 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_pushpin.png"
     },
     {
-      "name": "film_strip.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_film_strip.png"
-    },
-    {
       "name": "gear.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_gear.png"
     },
@@ -84,6 +80,10 @@
     {
       "name": "toolbox.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_toolbox.png"
+    },
+    {
+      "name": "film_strip.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_film_strip.png"
     },
     {
       "name": "cn.png",
