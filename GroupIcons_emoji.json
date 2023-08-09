@@ -1,5 +1,5 @@
 {
-  "name": "GroupIconsEmoji",
+  "name": "GroupIcons Emoji",
   "icons": [
     {
       "name": "apple.png",
@@ -66,6 +66,14 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_pushpin.png"
     },
     {
+      "name": "film_strip.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_film_strip.png"
+    },
+    {
+      "name": "gear.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_gear.png"
+    },
+    {
       "name": "balance_scale.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_balance_scale.png"
     },
@@ -106,5 +114,5 @@
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_kr.png"
     }
   ],
-  "description": "策略组Emoji图标集，收集好看的Emoji表情，图像来源于Emojiall"
+  "description": "策略组图标集，Emoji表情，图像来源于Emojiall"
 }
