@@ -2,38 +2,6 @@
   "name": "GroupIcons Emoji",
   "icons": [
     {
-      "name": "aerial_tramway.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_aerial_tramway.png"
-    },
-    {
-      "name": "aerial_tramway.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/htc/emojiall_aerial_tramway.png"
-    },
-    {
-      "name": "aerial_tramway.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_aerial_tramway.png"
-    },
-    {
-      "name": "aerial_tramway.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_aerial_tramway.png"
-    },
-    {
-      "name": "airplane.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_airplane.png"
-    },
-    {
-      "name": "airplane.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_airplane.png"
-    },
-    {
-      "name": "airplane.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_airplane.png"
-    },
-    {
-      "name": "airplane.png",
-      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/whatsapp/emojiall_airplane.png"
-    },
-    {
       "name": "apple.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_apple.png"
     },
@@ -80,6 +48,22 @@
     {
       "name": "ballot_box_with_check.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_ballot_box_with_check.png"
+    },
+    {
+      "name": "cable _car.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_cable _car.png"
+    },
+    {
+      "name": "cable_car.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_cable_car.png"
+    },
+    {
+      "name": "cable_car.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/htc/emojiall_cable_car.png"
+    },
+    {
+      "name": "cable_car.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_cable_car.png"
     },
     {
       "name": "calling.png",
@@ -432,6 +416,22 @@
     {
       "name": "movie_camera.png",
       "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/twitter/emojiall_movie_camera.png"
+    },
+    {
+      "name": "plane.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/apple/emojiall_plane.png"
+    },
+    {
+      "name": "plane.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/microsoft/emojiall_plane.png"
+    },
+    {
+      "name": "plane.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/openmoji/emojiall_plane.png"
+    },
+    {
+      "name": "plane.png",
+      "url": "https://raw.githubusercontent.com/mphin/GroupIcons/main/icon/emoji/whatsapp/emojiall_plane.png"
     },
     {
       "name": "point_up_2.png",
