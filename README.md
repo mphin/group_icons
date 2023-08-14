@@ -2,13 +2,13 @@
 * 策略组图标的收集和管理
 * Loon点击订阅:         
         https://www.nsloon.com/openloon/import?iconset=https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
-* stash点击订阅:                 
+* Stash点击订阅:                 
 https://link.stash.ws/install-icon-set/raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
 
         
 * 其他订阅:
         
-        https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
+      https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
 
 
 
