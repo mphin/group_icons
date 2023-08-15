@@ -10,6 +10,7 @@ https://link.stash.ws/install-icon-set/raw.githubusercontent.com/mphin/GroupIcon
 * 其他订阅(圈X及其他未测试理论也支持):
         
       https://raw.githubusercontent.com/mphin/GroupIcons/main/GroupIcons_emoji.json
+* 注: Emoji 图像均来源于EmojiAll，详看免责说明
 # 部分截图: 
 ![20230815143053](https://github.com/mphin/GroupIcons/assets/59219235/90bc1edb-0be7-4bb6-bd72-e10fd87adbb3)![20230815143151](https://github.com/mphin/GroupIcons/assets/59219235/28f1b31c-daf5-4bf5-b9fd-47295a8d19dc)
 
